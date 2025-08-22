@@ -1,0 +1,8 @@
+html,body{margin:0;padding:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial,'Noto Sans',sans-serif;background:#fafafa;color:#222}
+.container{max-width:900px;margin:40px auto;padding:0 16px}
+h1{font-size:24px;margin:0 0 12px}
+table{border-collapse:collapse;width:100%;background:#fff;border:1px solid #ddd}
+th,td{border:1px solid #eee;padding:8px 10px;text-align:left}
+thead th{background:#f0f0f0}
+a{color:#0b5fff;text-decoration:none}a:hover{text-decoration:underline}
+.note{color:#555;font-size:14px;margin-top:12px}
